@@ -16,9 +16,9 @@ This thesis aims to explore the early development stage of a table top, cost-eff
 
 ## Additional Resources\
 More information about scintillators
-- [ ] [BC408 Datasheet:](Documents/Literature/bicron_datasheet.pdf)
+- [ ] [BC408 Datasheet](Documents/Literature/bicron_datasheet.pdf)
 - [ ] 
 
 More information about Photomultiplier Tubes
-- [ ] [9111B Datasheet :](Documents/Literature/bicron_datasheet.pdf)
+- [ ] [9111B Datasheet](Documents/Literature/bicron_datasheet.pdf)
 - [ ] 
