@@ -26,11 +26,15 @@ Step by step instructions to assemble the hardware of the muon scanner:
    
 ## Operatioinal Instructions
 Step by step instructions how to run a test on the muon scanner:
-1. Arduino Setup & Code
-2. Oscilloscope Setup
-3. ROOT/C++ Analysis
+1. [Arduino Setup](Software/Arduino)
+2. [Oscilloscope Setup](Documents/Oscilloscope)
+3. [ROOT/C++ Analysis](Software/ROOT)
 
 ## Future Development
+Looking ahead, there are several avenues for future work that could enhance the performance and utility of this muon tomography scanner. 
+1. Longer timescales for scans could significantly improve the resolution of the system, allowing for finer distinctions between materials and more detailed density mapping. 
+2. Optimizing the data acquisition process would be crucial to maximizing the efficiency of the scanner and ensuring high-quality data collection.
+3. Introducing artificial neural networks could aid in taking pulse data and mapping where the muon hits occured on the scintillator plates.
 
 ## Additional Resources
 More information about scintillators
