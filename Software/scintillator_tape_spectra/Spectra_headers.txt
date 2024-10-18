@@ -1,0 +1,75 @@
+A1
+SpectraSuite Data File
+++++++++++++++++++++++++++++++++++++
+Date: Fri Jun 14 21:50:40 CEST 2024
+User: Administrator
+Dark Spectrum Present: Yes
+Reference Spectrum Present: Yes
+Number of Sampled Component Spectra: 1
+Spectrometers: HR2B959
+Integration Time (usec): 30000 (HR2B959)
+Spectra Averaged: 10 (HR2B959)
+Boxcar Smoothing: 0 (HR2B959)
+Correct for Electrical Dark: No (HR2B959)
+Strobe/Lamp Enabled: No (HR2B959)
+Correct for Detector Non-linearity: No (HR2B959)
+Correct for Stray Light: No (HR2B959)
+Number of Pixels in Processed Spectrum: 2048
+>>>>>Begin Processed Spectral Data<<<<<
+
+A2
+SpectraSuite Data File
+++++++++++++++++++++++++++++++++++++
+Date: Fri Jun 14 21:55:48 CEST 2024
+User: Administrator
+Dark Spectrum Present: Yes
+Reference Spectrum Present: Yes
+Number of Sampled Component Spectra: 1
+Spectrometers: HR2B959
+Integration Time (usec): 30000 (HR2B959)
+Spectra Averaged: 10 (HR2B959)
+Boxcar Smoothing: 0 (HR2B959)
+Correct for Electrical Dark: No (HR2B959)
+Strobe/Lamp Enabled: No (HR2B959)
+Correct for Detector Non-linearity: No (HR2B959)
+Correct for Stray Light: No (HR2B959)
+Number of Pixels in Processed Spectrum: 2048
+>>>>>Begin Processed Spectral Data<<<<<
+
+T1
+SpectraSuite Data File
+++++++++++++++++++++++++++++++++++++
+Date: Fri Jun 14 21:50:15 CEST 2024
+User: Administrator
+Dark Spectrum Present: Yes
+Reference Spectrum Present: Yes
+Number of Sampled Component Spectra: 1
+Spectrometers: HR2B959
+Integration Time (usec): 30000 (HR2B959)
+Spectra Averaged: 10 (HR2B959)
+Boxcar Smoothing: 0 (HR2B959)
+Correct for Electrical Dark: No (HR2B959)
+Strobe/Lamp Enabled: No (HR2B959)
+Correct for Detector Non-linearity: No (HR2B959)
+Correct for Stray Light: No (HR2B959)
+Number of Pixels in Processed Spectrum: 2048
+>>>>>Begin Processed Spectral Data<<<<<
+
+T2
+SpectraSuite Data File
+++++++++++++++++++++++++++++++++++++
+Date: Fri Jun 14 21:55:30 CEST 2024
+User: Administrator
+Dark Spectrum Present: Yes
+Reference Spectrum Present: Yes
+Number of Sampled Component Spectra: 1
+Spectrometers: HR2B959
+Integration Time (usec): 30000 (HR2B959)
+Spectra Averaged: 10 (HR2B959)
+Boxcar Smoothing: 0 (HR2B959)
+Correct for Electrical Dark: No (HR2B959)
+Strobe/Lamp Enabled: No (HR2B959)
+Correct for Detector Non-linearity: No (HR2B959)
+Correct for Stray Light: No (HR2B959)
+Number of Pixels in Processed Spectrum: 2048
+>>>>>Begin Processed Spectral Data<<<<<
