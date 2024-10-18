@@ -24,7 +24,7 @@ Step by step instructions to assemble the hardware of the muon scanner:
 3. [PMT Prep & Mounting](PMT)
 4. [Electronics & Wiring](Electronics)
    
-## Operatioinal Instructions
+## Operational Instructions
 Step by step instructions how to run a test on the muon scanner:
 1. [Arduino Setup](Software/Arduino)
 2. [Oscilloscope Setup](Documents/Oscilloscope)
