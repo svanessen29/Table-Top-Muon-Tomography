@@ -7,7 +7,7 @@ Muography (or muon tomography) is an imaging technique that uses cosmic muons—
 This thesis aims to explore the early development stage of a table top, cost-effective, muon tomography scanner through the use of **photomultiplier tubes (PMTs)** and organic scintillators. By establishing a proof-of-concept, the experiment suggests pathways for further development, potentially expanding the applications of muon imaging in research, education, and low-budget experimental environments. The performance of the scanner is validated through multi-hour test scans using known densities. Final results are documented in preparation for future adaptations of the experiment.
 
 ## Main Features
-This experiment uses second hand materials for most of its construction and feature the BC408 plastic scintillators are recycled from the [HiSPARC project](https://hisparc.utah.edu/), started in the Netherlands in 2003.
+This experiment uses second hand materials for most of its construction and feature the BC408 plastic scintillators are recycled from the [HiSPARC](https://hisparc.utah.edu/) project, started in the Netherlands in 2003.
 + __BC408 Scintillators:__
   + Dimensions: 100 cm X 50 cm X 2 cm
   + Composition: Polyvinyltoluene
