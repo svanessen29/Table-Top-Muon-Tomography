@@ -16,45 +16,36 @@ High-voltage cables consist of several key components: a conductor, usually made
 ## Step 1: Connecting the Voltage Divider
 Connecting the PMT properly to the voltage divider was the first stage. Each PMT consists of 10 connector pins, see figure 3.6, that need to be soldered to the voltage divider. The voltage divider is mounted on a separate printed circuit board (PCB), along with a negative high-voltage. The negative high-voltage is fed directly to the photocathode on the PMT housing. Connections can be seen by following the wiring schematic shown above.
 
-## Step 2: Connecting the PMT to the High-Voltage (HV) Cable
+## Step 2: Connecting the PMT to the High-Voltage (HV) & Signal Cables
 > [!NOTE]
 > Initially a custom circuit on a PCB was designed to handle the output of the PMT after the voltage divider, with the thought of needing a capacitor with the data line to stabilize potential signal spikes.
 
 This design was eventually updated to not need the capacitor due to a noisier signal caused by a shift in the ground levels. Once the capacitor was removed, proper operation was checked by measuring the resistance between the ground and signal. A PMT in good working condition was calculated to have a resistance of ≈ 475 kΩ.
 
-| PMT to Cable Wiring| Cables to Connect |
-| :--: | :--: |
-|<img src="../../Figures/pmt_wiring_cables.jpg" alt="photo of 9111B seris PMT" width="200" />| 
-
-The new design was to directly wire the PMT to the Signal and HV-Cables. 
-  - [ ] PMT Signal wire -> Signal wire
-  - [ ] PMT Power -> HV Power
-  - [ ] 
-
 <table>
     <thead>
         <tr>
             <th>PMT to Cable Wiring</th>
-            <th>Layer 2</th>
-            <th>Wire Labels</th>
+            <th>Cable Type</th>
+            <th>Soldered Connection</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td rowspan=4><img src="../../Figures/pmt_wiring_cables.jpg" alt="photo of 9111B seris PMT" width="200" /></td>
-            <td rowspan=2>L2 Name A</td>
-            <td>PMT Signal wire -> Signal wire</td>
+            <td rowspan=3><img src="../../Figures/pmt_wiring_cables.jpg" alt="photo of 9111B seris PMT" width="200" /></td>
+            <td rowspan=2>HV Cable</td>
+            <td> Red PMT Power -> HV Power</td>
         </tr>
         <tr>
-            <td>PMT Power -> HV Power</td>
+            <td>PMT Ground -> HV/Signal Ground</td>
         </tr>
         <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
+            <td rowspan=1>Signal Cable</td>
+            <td>Yellow PMT Signal -> Signal Cable</td>
         </tr>
     </tbody>
 </table>
+
+Once these connections are made, it is recommended to heat shrink each cable individually to avoid short circuiting the system. These can be seen in the image as clear heat shrink. The entire connection was also surrounded with heat shrink to keep everyting neat and organized $${\color{orange}(optional)}$$. 
+
 
