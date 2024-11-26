@@ -48,4 +48,19 @@ This design was eventually updated to not need the capacitor due to a noisier si
 
 Once these connections are made, it is recommended to heat shrink each cable individually to avoid short circuiting the system. These can be seen in the image as clear heat shrink. The entire connection was also surrounded with heat shrink to keep everyting neat and organized $${\color{orange}(optional)}$$. 
 
+## Step 3: Mounting the PMTs
+Both the coincidence scanning arms and the large plate scintillator need PMTs mounted to them. Let's start with the scanning arms.
+
+Using fused deposition modelling (FDM) print methods, custom housings were designed and printed using black 1.25 mm polylactic acid (PLA) filament to mount the coincident PMTs and their respective scintillators to the scanning arms. Below are images of the housing iteslf and how it interacts with the scanning arm. 
+
+| Coincident PMT Housing| Housing Mounted|
+| :--: | :--: |
+|<img src="../../Figures/pmt_housing.jpg" alt="photo of 3d printed scanning arm PMT housing" width="190" />|<img src="../../Figures/pmt_scan_mount.jpg" alt="printed scanning arm PMT housing mounted" width="600" />|
+
+Before the PMT is slid into this housing, a small scintillator with the same diameter as the PMT is taped to the glass face of the PMT using nano-tape. The tape is wrapped in aluminum and the entire module is then slide into the housing.
+
+| Nano-Tape | Cylindrical Scintillators |
+| :--: | :--: |
+|<img src="../../Figures/tape.jpg" alt="photo of nano-tape" width="190" />|<img src="../../Figures/large_scint.jpg" alt="photo of cylindrical scintillators" width="190" />|
+
 
