@@ -1,5 +1,7 @@
 # Table-Top-Muon-Tomography Experiment
-Documentation for building the open source Cost Effective Table-Top Muon Tomography Experiment at Utrecht University
+Documentation for building the open source Cost Effective Table-Top Muon Tomography Experiment at Utrecht University.
+
+![Muon Tomography Table](Figures/setup_pmt1.jpg)
 
 Muography (or muon tomography) is an imaging technique that uses cosmic muons—high-energy particles produced when cosmic rays interact with Earth's atmosphere—to create detailed images of the interior of objects. Muons are highly penetrating, much like X-rays but at much higher energies, allowing them to pass through thick and dense materials, such as mountains, buildings, or industrial structures.
 
