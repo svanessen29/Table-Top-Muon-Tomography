@@ -48,7 +48,7 @@ This design was eventually updated to not need the capacitor due to a noisier si
 
 Once these connections are made, it is recommended to heat shrink each cable individually to avoid short circuiting the system. These can be seen in the image as clear heat shrink. The entire connection was also surrounded with heat shrink to keep everyting neat and organized $${\color{orange}(optional)}$$. 
 
-## Step 3: Mounting the PMTs
+## Step 3: Mounting the Coincidence PMTs
 Both the coincidence scanning arms and the large plate scintillator need PMTs mounted to them. Let's start with the scanning arms.
 
 Using fused deposition modelling (FDM) print methods, custom housings were designed and printed using black 1.25 mm polylactic acid (PLA) filament to mount the coincident PMTs and their respective scintillators to the scanning arms. Below are images of the housing iteslf and how it interacts with the scanning arm. 
@@ -57,10 +57,22 @@ Using fused deposition modelling (FDM) print methods, custom housings were desig
 | :--: | :--: |
 |<img src="../../Figures/pmt_housing.jpg" alt="photo of 3d printed scanning arm PMT housing" width="190" />|<img src="../../Figures/pmt_scan_mount.jpg" alt="printed scanning arm PMT housing mounted" width="600" />|
 
-Before the PMT is slid into this housing, a small scintillator with the same diameter as the PMT is taped to the glass face of the PMT using nano-tape. The tape is wrapped in aluminum and the entire module is then slide into the housing.
+Before the PMT is slid into this housing, a small scintillator with the same diameter as the PMT is taped to the glass face of the PMT using nano-tape. The tape is wrapped in aluminum and the entire module is then slide into the housing. Below is a photo of the brandless nano-tape that was used as well as the cylindrically cut scintillators that were taped to the PMT with the nano-tape.
 
 | Nano-Tape | Cylindrical Scintillators |
 | :--: | :--: |
-|<img src="../../Figures/tape.jpg" alt="photo of nano-tape" width="190" />|<img src="../../Figures/large_scint.jpg" alt="photo of cylindrical scintillators" width="190" />|
+|<img src="../../Figures/tape.jpg" alt="photo of nano-tape" width="300" />|<img src="../../Figures/large_scint_cropped.jpg" alt="photo of cylindrical scintillators" width="300" />|
 
+## Step 4: Mounting the Large Scintillator Plate PMTs
+Next the large scintillation plate had it's 4 PMTs mounted at each corner. Since each corner of the scintillator was left unpainted and free from aluminum and plastic wrap, the PMTs were taped to each corner with the nano-tape and the FMD printed housings were secured around them.
 
+| Corner Housing Open | Corner Housing Closed |
+| :--: | :--: |
+|<img src="../../Figures/liner_pmt.jpg" alt="photo of nano-tape" width="300" />|<img src="../../Figures/liner6.jpg" alt="photo of pmt corner covered" width="300" />|
+
+## Step 5: Preventing Light leak
+Once all of the PMTs are securely mounted, the all housings are taped with electrical tape to prevent unwanted light from sneaking in. The completed taping can be seen below.
+
+| Taped Housings |
+| :--: |
+|<img src="../../Figures/setup_pmt2.jpg" alt="photo of final taping of the PMT housings" width="600" />|
