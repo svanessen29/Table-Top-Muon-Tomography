@@ -1,20 +1,22 @@
 # Electronics & Wiring
-This section will discuss how the PMTs, Arduino, and Oscilloscope were all connected together. 
-
+This section will simply show how the PMTs, Arduino, and Oscilloscope were all connected together to log a muon pulse. 
 Since this section only covers how to wire everything up, further discussion of the logic can be found on their respective pages:
   - [ ] [Arduino](../OperationalInstructions/Arduino.md) logic
   - [ ] [Oscilloscope](../OperationalInstructions/Oscilloscope.md) logging logic
 
+The basic NIM rack layout is shown below. The NIM modules that were used are (from right to left) are:
+  - [ ] Octal Discriminator
+  - [ ] Quad Coincidence
+  - [ ] NIM -> TTL Converter
+  - [ ] Counter
+  
 | NIM Rack | 
 | :--: |
 |<img src="../../Figures/electronics1.jpg" alt="photo of NIM rack" width="900" />|
 
-A simplified drawing demonstrates the logic needed totake the signal from the PMTs and send it to the oscilloscope.
+A simplified drawing demonstrates the logic needed to take the signal from the PMTs and send it to the oscilloscope.
 | Simplified Schematic| 
 | :--: |
 |<img src="../../Figures/NIM_diagram.jpg" alt="schematic of wiring of entire system" width="900" />|
-
-## Basic Logic
-The main logic of the system depends on muon coincidences and a pseudo arduino pulse. To begin, for a coincidence to be measured, the two PMTs mounted on the scanning arms must both trigger with a muon pulse. Once this occurs the data from each PMT mounted on the plate scintillator is saved by the oscilloscope. The scanning arms sit at a location for a specified amount of time then move to the next grid location. The data is separated by grid location through the use of the arduino that moves the stepper motors.
 
 
