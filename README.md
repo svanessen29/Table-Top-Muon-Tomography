@@ -21,16 +21,16 @@ This experiment uses second hand materials for most of its construction and feat
 
 ## Build Instructions
 Step by step instructions to assemble the hardware of the muon scanner:
-1. [Frame Assembly](Documents/FrameAssembly)
-2. [Scintillator Prep & Mounting](Documents/Scintillator)
-3. [PMT Prep & Mounting](PMT)
-4. [Electronics & Wiring](Electronics)
+1. [Frame Assembly](Documents/BuildInstructions/FrameAssembly.md)
+2. [Scintillator Prep & Mounting](Documents/BuildInstructions/Scintillator.md)
+3. [PMT Prep & Mounting](Documents/BuildInstructions/PMT.md)
+4. [Electronics & Wiring](Documents/BuildInstructions/Electronics.md)
    
 ## Operational Instructions
 Step by step instructions how to run a test on the muon scanner:
-1. [Arduino Setup](Software/Arduino)
-2. [Oscilloscope Setup](Documents/Oscilloscope)
-3. [ROOT/C++ Analysis](Software/ROOT)
+1. [Arduino Setup](Documents/OperationalInstructions/Arduino.md)
+2. [Oscilloscope Setup](Documents/OperationalInstructions/Oscilloscope.md)
+3. [ROOT/C++ Analysis](Documents/OperationalInstructions/ROOTanalysis.md)
 
 ## Future Development
 Looking ahead, there are several avenues for future work that could enhance the performance and utility of this muon tomography scanner. 
@@ -41,8 +41,8 @@ Looking ahead, there are several avenues for future work that could enhance the 
 ## Additional Resources
 More information about scintillators
 - [ ] [BC408 Datasheet](Documents/Literature/bicron_datasheet.pdf)
-- [ ] 
+ 
 
 More information about Photomultiplier Tubes
 - [ ] [9111B Datasheet](Documents/Literature/bicron_datasheet.pdf)
-- [ ] 
+
