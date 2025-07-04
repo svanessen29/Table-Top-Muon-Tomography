@@ -40,6 +40,7 @@ Looking ahead, there are several avenues for future work that could enhance the 
 
 ## ERP 2025
 The summary of the Experimental research project 2025 can be found here:
+-[Summary ERP 2025](ERP%202025/Summary.md)
 
 ## Additional Resources
 More information about scintillators
