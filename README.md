@@ -38,7 +38,7 @@ Looking ahead, there are several avenues for future work that could enhance the 
 2. Optimizing the data acquisition process would be crucial to maximizing the efficiency of the scanner and ensuring high-quality data collection.
 3. Introducing artificial neural networks could aid in taking pulse data and mapping where the muon hits occured on the scintillator plates.
 
-##
+## ERP 2025
 The summary of the Experimental research project 2025 can be found here:
 ## Additional Resources
 More information about scintillators
